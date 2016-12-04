@@ -1,5 +1,4 @@
 # Description
-Create testcases with the given requirements.
 The automated testcases were created in JAVA using Selenium (3.0.1) and JUnit4, in Eclipse Neon.
 Number of requirements: 12
 Number of cases: 6
