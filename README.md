@@ -21,7 +21,7 @@ For further information on what the testcases do, and how they cover the require
     - Select "Java Build Path"
     - Find the "Libraries" tab and click on it
     - Click on the "Add External JARs" button
-    - Search for the "Selenium" folder included in the repository
+    - Search for the "Selenium" folder included in the downloaded repository
     - Add the "client-combined-3.0.1-nodeps.jar" file
     - Enter the "lib" folder and add every file from there as well
     - Click on "Apply" and if you did everything correctly, you should see the "Referenced Libraries" folder appear in the project window.
