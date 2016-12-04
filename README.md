@@ -13,7 +13,7 @@ For further information on what the testcases do, and how they cover the require
 
 # How to use
   1. Start the IDE you wish to use for the test exection. (Eclipse, NetBeans)
-  2. Download the repository from here.
+  2. Download the repository, and extract it.
   3. Import the project into your IDE.
   4. You will need to manually add Selenium so please follow the next steps:
     - Click on the "DoclerTesting" folder in the projects tab.
