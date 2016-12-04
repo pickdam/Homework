@@ -13,8 +13,8 @@ For further information on what the testcases do, and how they cover the require
 
 # How to use
   1. Start the IDE.
-  2. Download the repository, and extract it.
-  3. Import the project into your IDE.
+  2. Download the repository.
+  3. Import the project into your IDE. (File > Import > Project from folder or archive > Select either the archived, or extracted version of the downloaded repository.)
   4. You will need to manually add Selenium so please follow the next steps:
     - Click on the "DoclerTesting" folder in the projects tab.
     - Select "properties"
