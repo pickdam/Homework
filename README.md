@@ -7,12 +7,12 @@ For further information on what the testcases do, and how they cover the require
 
 # Requirements
   - Firefox browser (https://www.mozilla.org/hu/firefox/new/)
-  - Eclipse Neon (https://eclipse.org/downloads/) or NetBeans (https://netbeans.org/downloads/)
+  - Eclipse Neon (https://eclipse.org/downloads/)
   - Selenium 3.0.1 for JAVA (Included in repository)
   - Geckodriver (included in repository)
 
 # How to use
-  1. Start the IDE you wish to use for the test exection. (Eclipse, NetBeans)
+  1. Start the IDE.
   2. Download the repository, and extract it.
   3. Import the project into your IDE.
   4. You will need to manually add Selenium so please follow the next steps:
